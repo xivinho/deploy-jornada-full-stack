@@ -1,5 +1,4 @@
 import axios from "axios";
-import "dotenv/config";
 
 const URL = "https://deploy-jornada-full-stack-frnw.onrender.com/api";
 
